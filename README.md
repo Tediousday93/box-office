@@ -26,7 +26,17 @@
 
 </br>
 
-# 📆 타임라인 
+# 📆 타임라인
+- 2023.03.20 : JSON 모델타입, DataManager 및 BoxOfficeResult 타입 정의, UnitTest작성
+- 2023.03.21 : DataManager 객체 정의, Refactoring (컨벤션, 네이밍)
+- 2023.03.22 : TestDouble타입 생성 및 DataManager, URLMaker Test 작성
+- 2023.03.23 : DataManager Test case 추가, Refactoring(Test 전반)
+- 2023.03.24 : DataManager->APIProvider로 리네이밍, URLMaker삭제, KobisAPI가 url관리하도록 변경, EndPoint 타입 생성, API프로토콜 구현, APIProvider Test 작성
+- 2023.03.27 : DailyBoxOfficeCell생성 및 Modern Collection View 구현 시도, refreshControl 추가
+- 2023.03.28 : Modern Collection View코드 삭제 후 CustomCollectionVeiwCell 구현 및 UICollectionViewDataSource 구현
+- 2023.03.29 : MovieDetails 화면구성 및 DaumImageAPI, SearchedImage Model추가
+- 2023.03.30 : imageView LoadingIndicator 추가 및 코드 전반 Refactoring
+- 2023.03.31 : File Tree 수정
 - 2023.04.03 : CalendarViewController 및 Navigation에 BarButtonItem 생성
 - 2023.04.04 : CalendarView Layout추가 및 선택 날짜 전달을 위한 Delegate패턴 구현, Modern Collection View 적용을 위한 ListCell, DiffableDataSource 구현
 - 2023.04.05 : 중복된 박스오피스 검색 날짜 변경 후 캘린더에 SelectedDate 반영, 중복되는 코드 줄이기 위한 TextMaker 구현, ListCell default configuration에 autoShrink 적용
