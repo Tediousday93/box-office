@@ -4,7 +4,7 @@
 > * 사용자 선택에 따라 박스오피스 순위 CollectionView를 목록/아이콘의 형태로 볼 수 있습니다.
 > * 주요 개념: `URLSession`, `NSCache`, `UICollectionView`, `Modern CollectionView Implementation` ,`UICalendarView`, `AutoLayout`
 > 
-> 프로젝트 기간: 2023.04.03 ~ 2023.04.14
+> 프로젝트 기간: 2023.03.20 ~ 2023.04.14 (1개월)
 
 
 ## ⭐️ 팀원
